@@ -1,2 +1,8 @@
 # Blinking-LED-Controller
-Wrote an ARM Cortex-M3 program in assembly to toggle LEDs on the LPC1768 using GPIO registers and manual delay loops.
+A foundational project demonstrating direct hardware control in assembly:
+
+LED toggling via memory-mapped GPIO.
+
+Assembly loops for timing delays.
+
+Showcases raw ARM assembly and register-level programming.
